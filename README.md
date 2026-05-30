@@ -17,12 +17,16 @@
     <img src="https://img.shields.io/badge/Gmail-cseskct056%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/durgeshsv">
-    <img src="https://img.shields.io/badge/LinkedIn-Durgesh%20S%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/durgesh-s-v-2005svd">
+    <img src="https://img.shields.io/badge/LinkedIn-durgesh--s--v--2005svd-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/durgeshsv">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/Durgesh_S_V/">
+    <img src="https://img.shields.io/badge/LeetCode-Durgesh__S__V-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Durgesh22112005">
+    <img src="https://img.shields.io/badge/GitHub-Durgesh22112005-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -57,6 +61,10 @@ public class DurgeshSV {
         "System Design", "Microservices",
         "Cloud Architecture", "ML / AI"
     };
+
+    String  linkedin  = "linkedin.com/in/durgesh-s-v-2005svd";
+    String  leetcode  = "leetcode.com/u/Durgesh_S_V";
+    String  github    = "github.com/Durgesh22112005";
 
     String funFact    =
         "Built an SOS app that alerts hospitals in < 5 sec ⚡";
@@ -232,7 +240,7 @@ public class DurgeshSV {
 
 | &nbsp; | Achievement | Details |
 |:------:|:------------|:--------|
-| 💻 | **LeetCode Grinder** | Solved **500+ DSA problems** across Easy, Medium & Hard |
+| 💻 | **LeetCode Grinder** | Solved **500+ DSA problems** — [Durgesh\_S\_V](https://leetcode.com/u/Durgesh_S_V/) |
 | 🥇 | **National Hackathon** | **Top 5 of 100+ teams** in a competitive 40-hour hackathon |
 | 🌱 | **Incubation Awardee** | Selected in **Top 10 teams** · Awarded **6-month incubation** |
 | 🥈 | **Digital Design Competition** | Secured **Second Prize** in university-level competition |
@@ -272,7 +280,28 @@ Competitive DSA    →  Advanced Graphs · DP Optimization · Segment Trees
 <br/>
 
 <div align="center">
+
+  **Connect with me**
+
+  <a href="https://www.linkedin.com/in/durgesh-s-v-2005svd">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Durgesh_S_V/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Durgesh22112005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:cseskct056@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
   <i>⚡ "Build. Break. Learn. Repeat." — Durgesh S V</i>
+
 </div>
 
 <br/>
